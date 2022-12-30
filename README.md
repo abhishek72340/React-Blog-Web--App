@@ -1,4 +1,6 @@
 <h2>This React web-App developed by using Dummy API</h2>
+<h1>still I am working over this web-app for adding more functionality </h1>
+<h1>after adding more functionality (after complete whole structure I'll deploy again here this blog web-app)</h1>
 
 ![React App - Google Chrome 11_11_2022 05_10_58](https://user-images.githubusercontent.com/109124944/201347775-ef25e82c-243c-47b2-a584-806206baeec0.png)
 
